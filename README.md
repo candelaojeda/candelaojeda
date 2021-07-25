@@ -12,7 +12,7 @@ I work daily on small personal projects to improve my learning and skills.
 ### Studies 🎓
 
 ***Year:***  2021
-***University:* ** National Technological University (UTN)
+***University:*** National Technological University (UTN)
 ***Title:***  University Technician in Programming - in progress
 
 ***Year:***  2021
