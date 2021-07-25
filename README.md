@@ -11,20 +11,20 @@ I work daily on small personal projects to improve my learning and skills.
 
 ### Studies 🎓
 
-***Year:***  2021
-***University:*** National Technological University (UTN)
+***Year:***  2021 - 
+***University:*** National Technological University (UTN) - 
 ***Title:***  University Technician in Programming - in progress
 
-***Year:***  2021
-***Company:*** Rooftop Academy
+***Year:***  2021 - 
+***Company:*** Rooftop Academy - 
 *Frontend developer with Reacjs - in progress*
 
-***Year:***  2021
-***Company:*** Education IT - Telecom - Digitalers
+***Year:***  2021 - 
+***Company:*** Education IT - Telecom - Digitalers - 
 *Full Stack Developer with Node.Js - in progress*
 
-***Year:*** 2021
-***Institute:*** Blue Moon (English Language Institute)
+***Year:*** 2021 - 
+***Institute:*** Blue Moon (English Language Institute) - 
 *4th Intermediate- in progress*
 
 
