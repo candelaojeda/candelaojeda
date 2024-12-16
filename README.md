@@ -1,6 +1,6 @@
 ### Hi there  👋
 
-My name is Candela Ojeda. I am a student and apprentice developer👩‍💻 I like to go running 🏃‍♀️ and I practice dance💃 I also like to travel and see different places. I am in love with web application development❤️  I like teamwork! Every day I try to be a better developer 🤩
+My name is Candela Ojeda. I am a University Technician in Programming👩‍💻 I like to go running 🏃‍♀️ and I practice dance💃 I also like to travel and see different places. I am in love with web application development❤️  I like teamwork! Every day I try to be a better developer 🤩
 
 ### Current job 💪
 I work daily on small personal projects to improve my learning and skills.
@@ -11,9 +11,9 @@ I work daily on small personal projects to improve my learning and skills.
 
 ### Studies 🎓
 
-***Year:***  2021 - 
+***Year:***  2021 - 2023
 ***University:*** National Technological University (UTN) - 
-***Title:***  University Technician in Programming - in progress
+***Title:***  University Technician in Programming -
 
 ***Year:***  2021 - 
 ***Company:*** Rooftop Academy - 
